@@ -1,0 +1,9 @@
+### POST question
+POST http://{{host}}/api/question
+Accept: application/json
+Content-Type: application/json
+
+{
+  "question": "What is the capital of France?"
+}
+
