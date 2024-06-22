@@ -1,5 +1,5 @@
 ### POST question
-POST http://{{host}}/api/question
+POST http://{{host}}/chat
 Accept: application/json
 Content-Type: application/json
 
